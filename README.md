@@ -6,7 +6,7 @@ Este repositorio reúne todos los retos desarrollados durante el primer módulo 
 
 ## ✨ Contenido
 -1️⃣ Sesion 1: introducción a la programación orientada a objetos en Java.
-  -Reto 1: registro básico de pacientes.
+  *Reto 1: registro básico de pacientes.
   -Reto 2: registro básico de entradas.
     
 -2️⃣ Sesion 2: tipos de datos y sentencias de control.
