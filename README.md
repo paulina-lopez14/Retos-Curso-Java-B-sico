@@ -43,6 +43,7 @@ Simulador farmacia
 ![image](https://github.com/user-attachments/assets/a684d457-5c19-4577-a374-68062866fb6f)
 
 Sistema de emergencia
+
 ![image](https://github.com/user-attachments/assets/8bc3c08e-bbf0-4950-a96d-06fb31e9032f)
 
 
