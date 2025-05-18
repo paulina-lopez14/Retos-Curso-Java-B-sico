@@ -46,6 +46,9 @@ Sistema de emergencia
 
 ![image](https://github.com/user-attachments/assets/8bc3c08e-bbf0-4950-a96d-06fb31e9032f)
 
+Motor de lógica narrativa 
+
+![image](https://github.com/user-attachments/assets/9827a38c-df56-4dbc-a0b6-c73362d6f756)
 
 
 ## 🛠️ Tecnologías usadas
